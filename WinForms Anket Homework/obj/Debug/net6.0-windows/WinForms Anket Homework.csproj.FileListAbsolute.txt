@@ -1,0 +1,17 @@
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\bin\Debug\net6.0-windows\WinForms Anket Homework.exe
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\bin\Debug\net6.0-windows\WinForms Anket Homework.deps.json
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\bin\Debug\net6.0-windows\WinForms Anket Homework.runtimeconfig.json
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\bin\Debug\net6.0-windows\WinForms Anket Homework.dll
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\bin\Debug\net6.0-windows\WinForms Anket Homework.pdb
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\obj\Debug\net6.0-windows\WinForms Anket Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\obj\Debug\net6.0-windows\Anket.Form1.resources
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\obj\Debug\net6.0-windows\WinForms Anket Homework.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\obj\Debug\net6.0-windows\WinForms Anket Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\obj\Debug\net6.0-windows\WinForms Anket Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\obj\Debug\net6.0-windows\WinForms Anket Homework.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\obj\Debug\net6.0-windows\WinForms Anket Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\obj\Debug\net6.0-windows\WinForms Anket Homework.dll
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\obj\Debug\net6.0-windows\refint\WinForms Anket Homework.dll
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\obj\Debug\net6.0-windows\WinForms Anket Homework.pdb
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\obj\Debug\net6.0-windows\WinForms Anket Homework.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WinForms Anket Homework\WinForms Anket Homework\obj\Debug\net6.0-windows\ref\WinForms Anket Homework.dll
